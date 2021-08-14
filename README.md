@@ -5,18 +5,10 @@
   </a>
 </p>
 
-<h3 align="center">A highschool student from South Korea</h3>
-<h3 align="center">Dreaming of being an Cyber Security Expert</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=iIIusi0n alt=iIIusi0n/></p>
-
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on **WyvernHTTP 2**
-- 🌱 I’m currently learning ... **React.js and Windows Kernel**
-- 💬 Teach me about ... **Pentesting**
-- 📫 How to reach me **iIIusi0n@wyvern.pw**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/cs.png" alt=csharp width="60" height="60"/>
